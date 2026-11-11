@@ -20,6 +20,10 @@ Arduino로 서보모터, 택트 스위치, LCD, 부저, LED를 함께 제어해 
 | Library | `Servo.h`, `Wire.h`, `LiquidCrystal_I2C.h` |
 | Tool | Arduino IDE |
 
+## 시연 영상
+
+[![IoT 두더지 게임 시연 영상](https://img.youtube.com/vi/gIDvu-EtM8Q/hqdefault.jpg)](https://youtu.be/gIDvu-EtM8Q)
+
 ## 완성 사진
 
 | 완성본 |
@@ -85,4 +89,3 @@ Arduino로 서보모터, 택트 스위치, LCD, 부저, LED를 함께 제어해 
 - 소스 코드: [Mole_Game.ino](./src/Mole_Game.ino)
 - 개발 보고서: [두더지게임 개발보고서 (PDF)](./두더지게임_개발보고서.pdf)
 - 주간 진행 보고서: [reports](./reports)
-- 시연 영상: [demo_play.mp4](./videos/demo_play.mp4)
